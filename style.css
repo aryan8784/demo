@@ -1,0 +1,14 @@
+ul{
+    background-color: teal;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    position: sticky;
+    top: 0
+}
+
+li{
+    font-size: 25px;
+}
